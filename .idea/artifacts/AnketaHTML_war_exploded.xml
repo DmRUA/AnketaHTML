@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="AnketaHTML:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/AnketaHTML_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="AnketaHTML/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="AnketaHTML" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
